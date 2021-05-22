@@ -5,7 +5,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="TeX Integration Solution" h2="" logoImageSrc="https://www.aspose.com/templates/brand/images/tex/aspose_tex-brand.png" imageAlt="" >}}
+{{< blocks/products/pf/upper-banner h1="TeX Integration Solution" h2="On Premise APIs and free apps for TeX files typesetting." logoImageSrc="https://www.aspose.com/templates/brand/images/tex/aspose_tex-brand.png" imageAlt="Aspose.TeX Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TeX On Premise APIs Include" >}}
@@ -26,20 +26,15 @@ C++ On Premise API to typeset TeX files.
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="" >}}
-
-{{< blocks/products/pf/product pfName="" title="" imgSrc="" >}}
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="" innerText="" >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
+We have been using Aspose for quite some time now, and we have not run into a single Aspose related bug. .
+{{< /blocks/products/pf/testimonials-quote >}}
+{{< blocks/products/pf/testimonials-quote >}}
+Aspose.Total works great when we have large files and documents to work on.
 {{< /blocks/products/pf/testimonials-quote >}}
 {{< /blocks/products/pf/testimonials >}}
 
