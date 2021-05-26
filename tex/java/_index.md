@@ -17,7 +17,191 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.TeX for Java API." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-bars">
+    </i>
+    Format Support
+   </header>
+   <ul>
+    <li>
+     Support Multiple Formats
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    File Operations
+   </header>
+   <ul>
+    <li>
+     Load TeX source files from disk
+    </li>
+    <li>
+     Load TeX source files from a ZIP-archive
+    </li>
+    <li>
+     Load TeX source files from your own implementation of "working directory"
+    </li>
+    <li>
+     Typeset TeX files
+    </li>
+    <li>
+     Obtain output documents in different formats like XPS, PDF, PNG, JPEG, TIFF, BMP
+    </li>
+    <li>
+     Write output document to a stream
+    </li>
+    <li>
+     Write output to disk
+    </li>
+    <li>
+     Write output to a ZIP-archive
+    </li>
+    <li>
+     Write output to your own implementation of "working directory"
+    </li>
+    <li>
+     Create your own TeX format if you want to create and/or typeset a bunch of documents designed uniformly
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
+  <header>
+   Aspose.TeX
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.TeX for Java supports all major platforms including." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <!--<header><i class="fa fa-cubes"> </i>Mono</header>-->
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     J2SE 8.0 (1.8) or above
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
+  <header>
+   Aspose.TeX
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for Java supports the following [file formats](https://docs.aspose.com/tex/java/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-up">
+    </i>
+    Input
+   </header>
+   <ul>
+    <li>
+     Plain text
+     <strong>
+      TeX
+     </strong>
+     files
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Output
+   </header>
+   <ul>
+    <li>
+     XPS
+    </li>
+    <li>
+     PDF
+    </li>
+    <li>
+     PNG
+    </li>
+    <li>
+     JPEG
+    </li>
+    <li>
+     TIFF
+    </li>
+    <li>
+     BMP
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java TeX API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
+  <header>
+   Aspose.TeX
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
