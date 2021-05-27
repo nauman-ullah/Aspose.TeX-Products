@@ -2,6 +2,7 @@
 title: Aspose.TeX for .NET - Common 
 weight: 30
 url: /net/ 
+description:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
