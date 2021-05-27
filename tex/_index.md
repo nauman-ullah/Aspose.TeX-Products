@@ -28,10 +28,28 @@ C++ On Premise API to typeset TeX files.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
+<p class="first">
+ We have been using Aspose for quite some time now, and we have not run into a single Aspose related bug. .
+ <em>
+  Jac Goorden | Bicore, Netherlands
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
+{{< blocks/products/pf/testimonials-quote >}}
+<p class="second">
+ Aspose.Total works great when we have large files and documents to work on.
+ <em>
+  MiniTool® Software Ltd., Canada
+ </em>
+</p>
+
+{{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
