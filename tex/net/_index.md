@@ -1,6 +1,6 @@
 ---
 title: Aspose.TeX for .NET - Common 
-weight: 30
+weight: 40
 url: /net/ 
 description:
 ---
@@ -394,6 +394,7 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 {{< blocks/products/pf/offers-section pfName="Aspose.TeX" description="Aspose.TeX offers individual TeX processing APIs for other popular development environments as listed below:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/tex/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/tex/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

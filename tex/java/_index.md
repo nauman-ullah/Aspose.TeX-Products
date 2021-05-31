@@ -1,6 +1,6 @@
 ---
 title: Aspose.TeX for Java - Common 
-weight: 20
+weight: 30
 url: /java/ 
 description:
 ---
@@ -319,6 +319,7 @@ description:
 {{< blocks/products/pf/offers-section pfName="Aspose.TeX" description="Aspose.TeX offers individual TeX processing APIs for other popular development environments as listed below:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/tex/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tex/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
