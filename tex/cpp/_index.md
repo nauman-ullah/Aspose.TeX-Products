@@ -1,6 +1,6 @@
 ---
 title: C++ TeX Integration and Processing API - Aspose 
-weight: 20
+weight: 50
 url: /cpp/ 
 description: C++ TeX library to typeset within C++ applications
 ---

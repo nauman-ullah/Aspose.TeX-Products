@@ -1,6 +1,6 @@
 ---
 title: TeX Files Typesetting APIs & Apps - Aspose 
-weight: 50
+weight: 30
 url: /
 description: On Premise APIs and Free Apps to typeset TeX files.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Aspose.TeX for Java - Common 
-weight: 30
+weight: 40
 url: /java/ 
 description:
 ---

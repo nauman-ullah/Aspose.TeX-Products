@@ -1,6 +1,6 @@
 ---
 title: Aspose.TeX for .NET - Common 
-weight: 40
+weight: 20
 url: /net/ 
 description:
 ---
