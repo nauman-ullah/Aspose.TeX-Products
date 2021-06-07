@@ -6,11 +6,11 @@ description:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to typeset TeX files" h2="Typeset TeX files within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-net.png" pfName="Aspose.TeX for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to typeset TeX files" h2="Typeset TeX files within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-net.png" pfName="Aspose.TeX " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.TeX " subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/net/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com/pricing/tex/net" docsLink="https://docs.aspose.com/tex/net/release-notes/" installationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/tex/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

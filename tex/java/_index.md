@@ -6,11 +6,11 @@ description:
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java APIs to typeset TeX files" h2="Typeset TeX files within Java based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-java.png" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java APIs to typeset TeX files" h2="Typeset TeX files within Java based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-java.png" pfName="Aspose.TeX " subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.TeX " subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/java/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com/pricing/tex/java" docsLink="https://docs.aspose.com/tex/java/release-notes/" installationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-tex" directDownloadLink="https://downloads.aspose.com/tex/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
