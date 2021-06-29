@@ -301,27 +301,170 @@ description: C++ TeX library to typeset within C++ applications
    </div>
   </div>
  </div>
+ <!-- Support & Learning Resources -->
+ <div class="container-fluid support-resources bg-midblue">
+  <a class="anchor" id="support-resources" name="support-resources">
+  </a>
+  <div class="row">
+   <div class="container">
+    <h2 class="h2title-white">
+     Support and Learning Resources
+    </h2>
+    <div class="col-lg-12 mgtb55">
+     <ul class="list-unstyled" id="resources">
+      <li class="resourcesheading">
+       Learning Resources
+      </li>
+      <li>
+       <a href="https://docs.aspose.com/tex/cpp">
+        Documentation
+       </a>
+      </li>
+      <li>
+       <a href="https://github.com/aspose-tex/Aspose.TeX-for-C">
+        Source Code
+       </a>
+      </li>
+      <li>
+       <a href="https://apireference.aspose.com/tex/cpp">
+        API References
+       </a>
+      </li>
+      <li>
+       <a href="https://www.youtube.com/user/asposevideo">
+        Tutorial Videos
+       </a>
+      </li>
+     </ul>
+     <ul class="list-unstyled" id="support">
+      <li class="resourcesheading">
+       Product Support
+      </li>
+      <li>
+       <a href="https://forum.aspose.com/c/tex">
+        Free Support
+       </a>
+      </li>
+      <li>
+       <a href="https://helpdesk.aspose.com/">
+        Paid Support
+       </a>
+      </li>
+      <li>
+       <a href="https://blog.aspose.com/category/tex/">
+        Blog
+       </a>
+      </li>
+      <li>
+      </li>
+     </ul>
+     <ul class="list-unstyled" id="success-stories">
+      <li class="resourcesheading">
+       Why Aspose.TeX for C++?
+      </li>
+      <!-- <li><a href="#">Why Choose</a></li> 
+
+<li><a href="https://downloads.aspose.com/corporate/case-studies">Customer Case Studies</a></li>-->
+      <li>
+       <a href="https://company.aspose.com/customers">
+        Customers List
+       </a>
+      </li>
+      <li>
+       <a href="https://company.aspose.com/customers/success-stories/">
+        Success Stories
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="arrow_box cloudarrow">
+  <em>
+  </em>
+ </div>
+ <div class="container-fluid downloadbtn-section bg-darkgray tc">
+  <div class="row">
+   <div class="container">
+    <div class="col-lg-12">
+     <a class="btn btn-primary btn-lg" data-target="#nugetproject" data-toggle="modal" href="#">
+      Download Free Trial
+     </a>
+     <a class="btn btn-primary btn-lg" href="https://github.com/aspose-tex/Aspose.TeX-for-Cpp">
+      Download GitHub Repository
+     </a>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="container-fluid offers-section bg-darkergray tc">
+  <a class="anchor" id="individual-apis" name="individual-apis">
+  </a>
+  <div class="row">
+   <div class="container">
+    <div class="col-lg-12">
+     <p>
+      Aspose.TeX offers individual TeX management APIs for other popular development environments as listed below:
+     </p>
+    </div>
+    <div class="bg-whitebox">
+     <ul class="list-unstyled">
+      <li>
+       <div class="offer-products">
+        <a href="/tex/net">
+         <img alt="Aspose.TeX for .NET" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png"/>
+        </a>
+        <h5>
+         <a href="/tex/net">
+          Aspose.TeX
+          <span class="spanclass">
+           <em>
+            for
+           </em>
+           .NET
+          </span>
+         </a>
+        </h5>
+       </div>
+      </li>
+      <li>
+       <div class="offer-products">
+        <a href="/tex/java">
+         <img alt="Aspose.TeX for Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
+        </a>
+        <h5>
+         <a href="/tex/java">
+          Aspose.TeX
+          <span class="spanclass">
+           <em>
+            for
+           </em>
+           Java
+          </span>
+         </a>
+        </h5>
+       </div>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+<!--Feature-section End-->
 
 {{< /blocks/products/pf/main-container >}}
 
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/cpp/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-C" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/tex/cpp" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/tex" >}}
-{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/tex/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.TeX for C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
