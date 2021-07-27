@@ -6,20 +6,22 @@ description: Typeset TeX files on any platform
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Typeset TeX files on Any Platform" h2="Aspose.TeX" logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex.png" pfName="" downloadUrl="https://downloads.aspose.com/tex/net" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Typeset TeX files on Any Platform" h2="Native APIs to typeset TeX files.
+" logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex.png" pfName="" downloadUrl="https://downloads.aspose.com/tex" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title=".NET" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.TeX On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.TeX for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" productLink="/tex/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.TeX for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" productLink="/tex/net" >}}
 Target Windows Forms, ASP.NET or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.TeX for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" productLink="/tex/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.TeX for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" productLink="/tex/java" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.TeX for" title="Integrate TeX files typesetting into C++ applications." imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png" productLink="/tex/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.TeX for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png" productLink="/tex/cpp" >}}
+Integrate TeX files typesetting into C++ applications.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
@@ -46,6 +48,6 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tex/net" pricingInformationLink="https://purchase.aspose.com/pricing/tex" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/tex" pricingInformationLink="https://purchase.aspose.com/pricing/tex" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
