@@ -6,8 +6,7 @@ description: Typeset TeX files on any platform
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Typeset TeX files on Any Platform" h2="Native APIs to typeset TeX files.
-" logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex.png" pfName="" downloadUrl="https://downloads.aspose.com/tex" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Typeset TeX files on Any Platform" h2="Native APIs to typeset TeX files." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex.png" pfName="" downloadUrl="https://downloads.aspose.com/tex" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TeX On Premise APIs Include" >}}
