@@ -10,7 +10,7 @@ description: Library to Typeset TeX files within Java based applications
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/java/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/java/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="" nugetPackageName="" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -81,7 +81,7 @@ description: Library to Typeset TeX files within Java based applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
+  <img alt="Java TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -122,7 +122,7 @@ description: Library to Typeset TeX files within Java based applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
+  <img alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -191,7 +191,7 @@ description: Library to Typeset TeX files within Java based applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java TeX API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
+  <img alt="Java TeX API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -327,8 +327,8 @@ description: Library to Typeset TeX files within Java based applications
 
 {{< blocks/products/pf/offers-section pfName="Aspose.TeX" description="Aspose.TeX offers individual TeX processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/tex/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/tex/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/tex/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tex/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

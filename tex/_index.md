@@ -11,15 +11,15 @@ description: On Premise APIs and Free Apps to typeset TeX files.
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.TeX On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.TeX for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" productLink="https://products.aspose.com/tex/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.TeX for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" productLink="https://products.aspose.com/tex/net" >}}
 On Premise APIs to typeset TeX files in Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 3.5 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.TeX for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" productLink="https://products.aspose.com/tex/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.TeX for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" productLink="https://products.aspose.com/tex/java" >}}
 On Premise APIs to typeset TeX files within Java-based applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.TeX for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png" productLink="https://products.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.TeX for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" productLink="https://products.aspose.com/tex/cpp" >}}
 C++ On Premise API to typeset TeX files.
 {{< /blocks/products/pf/product >}}
 
