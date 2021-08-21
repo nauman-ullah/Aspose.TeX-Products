@@ -141,7 +141,7 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for .NET supports the following [file formats](https://docs.aspose.com/tex/net/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for .NET supports the following [file formats](https://docs.aspose.com/tex/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

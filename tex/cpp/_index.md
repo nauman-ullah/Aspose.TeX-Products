@@ -99,7 +99,7 @@ description: C++ TeX library to typeset within C++ applications
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the Windows and Linux platform having [system requirements](https://docs.aspose.com/tex/cpp/system-requirements/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the Windows and Linux platform having [system requirements](https://docs.aspose.com/tex/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
