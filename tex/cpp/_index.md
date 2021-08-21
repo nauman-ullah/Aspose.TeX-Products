@@ -145,7 +145,7 @@ description: C++ TeX library to typeset within C++ applications
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for C++ supports the following [file format](https://docs.aspose.com/tex/cpp/supported-file-formats/)  s." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for C++ supports the following [file formats](https://docs.aspose.com/tex/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
