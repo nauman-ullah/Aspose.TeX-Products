@@ -10,7 +10,7 @@ description: Library to Typeset TeX files within Java based applications
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/java/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/java/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="" nugetPackageName="" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

@@ -10,7 +10,7 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/net/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/net/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

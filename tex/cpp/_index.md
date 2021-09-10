@@ -10,7 +10,7 @@ description: C++ TeX library to typeset within C++ applications
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/cpp/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.TeX.Cpp/" nugetPackageName="Aspose.TeX.Cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/cpp/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.TeX.Cpp/" nugetPackageName="Aspose.TeX.Cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
