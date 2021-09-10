@@ -6,7 +6,7 @@ description: C++ TeX library to typeset within C++ applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ TeX Manipulation Library" h2="Typeset TeX files within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-cpp.png" pfName="Aspose.TeX" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ TeX Manipulation Library" h2="Typeset TeX files within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-cpp.svg" pfName="Aspose.TeX" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tex/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for C++" >}}
 

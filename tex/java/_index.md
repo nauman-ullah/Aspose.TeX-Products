@@ -6,7 +6,7 @@ description: Library to Typeset TeX files within Java based applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java APIs to typeset TeX files" h2="Typeset TeX files within Java based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-java.png" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java APIs to typeset TeX files" h2="Typeset TeX files within Java based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-java.svg" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for Java" >}}
 

@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET library to typeset TeX documents
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to typeset TeX files" h2="Typeset TeX files within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-net.png" pfName="Aspose.TeX for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to typeset TeX files" h2="Typeset TeX files within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-net.svg" pfName="Aspose.TeX for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for .NET" >}}
 
