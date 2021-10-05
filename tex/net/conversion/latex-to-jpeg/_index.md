@@ -25,7 +25,7 @@ otherformats: PNG PDF TIFF BMP
 {{% blocks/products/pf/agp/feature-section-col title="Get Started with .NET TeX API" %}}
 Install from command line as ```nuget install Aspose.TeX``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.TeX```.
 
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://products.aspose.com/tex/net).
+Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://downloads.aspose.com/tex/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-autogen title=".NET C# Code for LATEX to JPEG Conversion" gistPath="" %}}
