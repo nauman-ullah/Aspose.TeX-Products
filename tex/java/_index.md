@@ -1,16 +1,16 @@
 ---
-title: Aspose.TeX for Java - Common 
+title: Java API to typeset TeX Documents 
 weight: 40
 url: /java/ 
-description:
+description: Library to Typeset TeX files within Java based applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java APIs to typeset TeX files" h2="Typeset TeX files within Java based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-java.png" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java APIs to typeset TeX files" h2="Typeset TeX files within Java based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-java.svg" pfName="Aspose.TeX for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/tex/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/java/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/java/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/java/installation/" nugetLink="" nugetPackageName="" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -81,7 +81,7 @@ description:
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
+  <img alt="Java TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -122,7 +122,7 @@ description:
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
+  <img alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -140,7 +140,7 @@ description:
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for Java supports the following [file formats](https://docs.aspose.com/tex/java/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for Java supports the following [file formats](https://docs.aspose.com/tex/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -191,7 +191,7 @@ description:
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java TeX API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
+  <img alt="Java TeX API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -304,12 +304,21 @@ description:
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/java" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-Java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/tex/java" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/tex" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/tex/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.TeX for Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
@@ -318,8 +327,8 @@ description:
 
 {{< blocks/products/pf/offers-section pfName="Aspose.TeX" description="Aspose.TeX offers individual TeX processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/tex/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/tex/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/tex/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tex/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

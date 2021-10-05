@@ -6,11 +6,11 @@ description: C++ TeX library to typeset within C++ applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ TeX Manipulation Library" h2="Typeset TeX files within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-cpp.png" pfName="Aspose.TeX" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ TeX Manipulation Library" h2="Typeset TeX files within C++ based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-cpp.svg" pfName="Aspose.TeX" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/tex/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/cpp/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.TeX.Cpp/" nugetPackageName="Aspose.TeX.Cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/cpp/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/cpp/installation" nugetLink="https://www.nuget.org/packages/Aspose.TeX.Cpp/" nugetPackageName="Aspose.TeX.Cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -81,7 +81,7 @@ description: C++ TeX library to typeset within C++ applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ TeX Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png"/>
+  <img alt="C++ TeX Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -99,7 +99,7 @@ description: C++ TeX library to typeset within C++ applications
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the Windows and Linux platform having [system requirements](https://docs.aspose.com/tex/cpp/system-requirements/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="The library fully supports C++ applications developed on the Windows and Linux platform having [system requirements](https://docs.aspose.com/tex/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -127,7 +127,7 @@ description: C++ TeX library to typeset within C++ applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png"/>
+  <img alt="PUB Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -145,7 +145,7 @@ description: C++ TeX library to typeset within C++ applications
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for C++ supports the following [file format](https://docs.aspose.com/tex/cpp/supported-file-formats/)  s." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for C++ supports the following [file formats](https://docs.aspose.com/tex/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -196,7 +196,7 @@ description: C++ TeX library to typeset within C++ applications
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ TeX API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png"/>
+  <img alt="C++ TeX API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -301,156 +301,6 @@ description: C++ TeX library to typeset within C++ applications
    </div>
   </div>
  </div>
- <!-- Support & Learning Resources -->
- <div class="container-fluid support-resources bg-midblue">
-  <a class="anchor" id="support-resources" name="support-resources">
-  </a>
-  <div class="row">
-   <div class="container">
-    <h2 class="h2title-white">
-     Support and Learning Resources
-    </h2>
-    <div class="col-lg-12 mgtb55">
-     <ul class="list-unstyled" id="resources">
-      <li class="resourcesheading">
-       Learning Resources
-      </li>
-      <li>
-       <a href="https://docs.aspose.com/tex/cpp">
-        Documentation
-       </a>
-      </li>
-      <li>
-       <a href="https://github.com/aspose-tex/Aspose.TeX-for-C">
-        Source Code
-       </a>
-      </li>
-      <li>
-       <a href="https://apireference.aspose.com/tex/cpp">
-        API References
-       </a>
-      </li>
-      <li>
-       <a href="https://www.youtube.com/user/asposevideo">
-        Tutorial Videos
-       </a>
-      </li>
-     </ul>
-     <ul class="list-unstyled" id="support">
-      <li class="resourcesheading">
-       Product Support
-      </li>
-      <li>
-       <a href="https://forum.aspose.com/c/tex">
-        Free Support
-       </a>
-      </li>
-      <li>
-       <a href="https://helpdesk.aspose.com/">
-        Paid Support
-       </a>
-      </li>
-      <li>
-       <a href="https://blog.aspose.com/category/tex/">
-        Blog
-       </a>
-      </li>
-      <li>
-      </li>
-     </ul>
-     <ul class="list-unstyled" id="success-stories">
-      <li class="resourcesheading">
-       Why Aspose.TeX for C++?
-      </li>
-      <!-- <li><a href="#">Why Choose</a></li> 
-
-<li><a href="https://downloads.aspose.com/corporate/case-studies">Customer Case Studies</a></li>-->
-      <li>
-       <a href="https://company.aspose.com/customers">
-        Customers List
-       </a>
-      </li>
-      <li>
-       <a href="https://company.aspose.com/customers/success-stories/">
-        Success Stories
-       </a>
-      </li>
-     </ul>
-    </div>
-   </div>
-  </div>
- </div>
- <div class="arrow_box cloudarrow">
-  <em>
-  </em>
- </div>
- <div class="container-fluid downloadbtn-section bg-darkgray tc">
-  <div class="row">
-   <div class="container">
-    <div class="col-lg-12">
-     <a class="btn btn-primary btn-lg" data-target="#nugetproject" data-toggle="modal" href="#">
-      Download Free Trial
-     </a>
-     <a class="btn btn-primary btn-lg" href="https://github.com/aspose-tex/Aspose.TeX-for-Cpp">
-      Download GitHub Repository
-     </a>
-    </div>
-   </div>
-  </div>
- </div>
- <div class="container-fluid offers-section bg-darkergray tc">
-  <a class="anchor" id="individual-apis" name="individual-apis">
-  </a>
-  <div class="row">
-   <div class="container">
-    <div class="col-lg-12">
-     <p>
-      Aspose.TeX offers individual TeX management APIs for other popular development environments as listed below:
-     </p>
-    </div>
-    <div class="bg-whitebox">
-     <ul class="list-unstyled">
-      <li>
-       <div class="offer-products">
-        <a href="/tex/net">
-         <img alt="Aspose.TeX for .NET" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png"/>
-        </a>
-        <h5>
-         <a href="/tex/net">
-          Aspose.TeX
-          <span class="spanclass">
-           <em>
-            for
-           </em>
-           .NET
-          </span>
-         </a>
-        </h5>
-       </div>
-      </li>
-      <li>
-       <div class="offer-products">
-        <a href="/tex/java">
-         <img alt="Aspose.TeX for Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png"/>
-        </a>
-        <h5>
-         <a href="/tex/java">
-          Aspose.TeX
-          <span class="spanclass">
-           <em>
-            for
-           </em>
-           Java
-          </span>
-         </a>
-        </h5>
-       </div>
-      </li>
-     </ul>
-    </div>
-   </div>
-  </div>
- </div>
 </div>
 <!--Feature-section End-->
 
@@ -459,12 +309,21 @@ description: C++ TeX library to typeset within C++ applications
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-C" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/tex/cpp" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/tex" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/tex/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.TeX for C++?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
@@ -473,8 +332,8 @@ description: C++ TeX library to typeset within C++ applications
 
 {{< blocks/products/pf/offers-section pfName="Aspose.TeX" description="Aspose.TeX offers individual TeX management APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/tex/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/tex/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/tex/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tex/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

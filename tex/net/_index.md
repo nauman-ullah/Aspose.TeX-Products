@@ -1,16 +1,16 @@
 ---
-title: Aspose.TeX for .NET - Common 
+title: Typeset TeX files .NET APIs 
 weight: 20
 url: /net/ 
-description:
+description: C# ASP.NET VB.NET library to typeset TeX documents
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to typeset TeX files" h2="Typeset TeX files within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/header/aspose_tex-for-net.png" pfName="Aspose.TeX for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to typeset TeX files" h2="Typeset TeX files within .NET based applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/headers/aspose_tex-for-net.svg" pfName="Aspose.TeX for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/tex/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.TeX" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/tex/net/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/tex/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/tex/net/release-notes/" instalationsDocsLink="https://docs.aspose.com/tex/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.TeX/" nugetPackageName="Aspose.TeX" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -81,7 +81,7 @@ description:
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png"/>
+  <img alt=".NET TeX Files Typesetting API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -123,7 +123,7 @@ description:
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png"/>
+  <img alt="TeX Files Typesetting APIs" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -141,7 +141,7 @@ description:
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for .NET supports the following [file formats](https://docs.aspose.com/tex/net/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.TeX for .NET supports the following [file formats](https://docs.aspose.com/tex/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -192,7 +192,7 @@ description:
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET TeX API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-net.png"/>
+  <img alt=".NET TeX API" src="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-net.svg"/>
   <header>
    Aspose.TeX
   </header>
@@ -379,12 +379,21 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/tex/net" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tex/Aspose.TeX-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/tex/net" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/tex" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/tex/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.TeX for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
@@ -393,8 +402,8 @@ ttfFont.Save("ouputDirectoryPath"+Montserrat-Regular_out.ttf);</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.TeX" description="Aspose.TeX offers individual TeX processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/tex/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-java.png" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/tex/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tex/272x272/aspose_tex-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/tex/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/tex/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/tex/aspose_tex-for-cpp.svg" sdkName="C++" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
